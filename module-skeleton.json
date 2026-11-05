@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-wordpress-migration-flutter",
+  "capabilityKey": "liberusoftware/module-cms-wordpress-migration",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_wordpress_migration_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/wordpress-migration.md",
+  "presentationPlan": "projects/cms/flutter/wordpress-migration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
